@@ -1,0 +1,16 @@
+{
+  "name": "cert-installer",
+  "version": "1.0.0",
+  "description": "Install certificates from .reg and .crt files on Mac OS.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@inquirer/prompts": "^3.3.0",
+    "command-line-args": "^5.2.1"
+  }
+}
